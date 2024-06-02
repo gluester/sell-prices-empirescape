@@ -22,7 +22,7 @@ seed: .15
 "torchflower seeds": .50 
 "beetroot seed": .35
 "wheat seeds": .1
-cobblestone: 0.02
+"cobblestone block": 0.02
 "glow berries": 4
 "bamboo plant": .45
 "netherite ingot": 35
@@ -31,17 +31,21 @@ cobblestone: 0.02
 beetroot: 4.65
 "gold block": 40.05
 charcoal: 2.25
-bone: 4.85
+bone: 5.85
 bow: 6.45
 arrow: 4.85
-leather: 6.25
+"small amethyst bud": 1.25
+"medium amethyst bud": 2
+"large amethyst bud": 3.50
+"amethyst cluster": 5.85
+leather: 5.25
 coal: 2.25
 dandelion: 0.75
 poppy: 0.85
-oxeye daisy: 0.85
+"oxeye daisy": 0.85
 cornflower: 0.75
-lilly of the valley: 0.75
-wither rose: 1.25
+"lily of the valley": 0.75
+"withered rose": 1.25
 string: 0.3
 "cocoa bean": 4
 potato: 3
@@ -50,7 +54,7 @@ beef: 3.95
 pork: 3.50
 steak: 4.75
 "cooked pork": 4.45
-poppy: .15
+# poppy: .15
 "white wool block": 4
 "light gray wool block": 4
 "dark gray wool block": 4
@@ -63,7 +67,7 @@ mutton: 5
 "cooked mutton": 5.95
 "cooked chicken": 4.85
 "poisonous potato": 6
-"blaze rod": 3
+"blaze rod": 8
 
 carrot: 3
 "golden carrot": 4.75
